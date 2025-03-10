@@ -2,6 +2,9 @@
 
 Welcome to the **Excel Dashboard** repository! This project is an interactive Excel dashboard that helps visualize and analyze data efficiently using Excel features such as Pivot Tables, Charts, and Power Query.
 
+### The DASHBOARD
+<img width="398" alt="SuperStoreDashboard" src="https://user-images.githubusercontent.com/54446705/205509161-c4bf98dd-37e7-415a-afc2-bf19d20fadcf.png">
+
 ## 📝 Table of Contents
 
 - [Project Overview](#project-overview)
